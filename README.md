@@ -10,6 +10,10 @@ You can use the 2d included custom element as a hint.
 If piday has already happened this year nDaysLeft will be negative. 
 Recalculate nPiday and nDaysLeft to be the days till the next piday if nDaysLeft is negative.
 
+Hint: Start with PiDay and get the year right. Make the same change in DaysLeft
+
+![piday](readmeimages/piday.png)
+
 2. Tim Berners Lee invented the worldwide web. Write an html document from scratch that includes:
 
     a. doctype declaration
@@ -28,6 +32,8 @@ Recalculate nPiday and nDaysLeft to be the days till the next piday if nDaysLeft
 
     h. add an html 5 semantic tag at the end of the document that includes a copyright notice with a custom element for the copyright year
 
+![Tim Berners Lee](readmeimages/TimBernersLee.png)
+
 3. q3.html includes a twitter bootstrap contact form. Edit the form to:
 
     a. Add a single line (input) of text subject.
@@ -41,3 +47,5 @@ Recalculate nPiday and nDaysLeft to be the days till the next piday if nDaysLeft
     e. Make the submit button on the right hand side and make sure that it doesn't overlap the footer.
 
     f. Make the footer in a cursive font of your choosing from google fonts and with light text and a dark background of sufficient contrast.
+
+![Contact Us](readmeimages/ContactUs.png)
